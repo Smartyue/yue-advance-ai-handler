@@ -1,7 +1,7 @@
 # yue-advance-ai-handler
 
 # Install
->npm i yue-advance-ai-handler --save
+`$ npm i yue-advance-ai-handler --save`
 
 # Example
 ```javascript
