@@ -1,0 +1,18 @@
+{
+  "name": "yue-advance-ai-handler",
+  "version": "0.0.1",
+  "description": "sdk for advance-ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "advance-ai"
+  ],
+  "author": "Yue.",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^2.3.2",
+    "yue-http-util": "^1.0.2"
+  }
+}
