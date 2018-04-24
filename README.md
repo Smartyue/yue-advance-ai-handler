@@ -4,7 +4,7 @@
 `npm i yue-advance-ai-handler --save`
 
 # Example
-```
+```javascript
 const AdvanceAIHandler=require('yue-advance-ai-handler');
 
 //Init config first
